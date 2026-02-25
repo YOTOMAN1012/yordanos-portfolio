@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaFacebookF } from 'react-icons/fa'
 import { FiInstagram } from 'react-icons/fi'
 import { IoLogoTwitter } from 'react-icons/io'
@@ -7,7 +6,7 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>YORDANOS</a>
+      <a href="#Home" className='footer__logo'>YORDANOS</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
